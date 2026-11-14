@@ -1,0 +1,6 @@
+{
+  "name": "ScaleLab - Research Scale Development & Validation Platform",
+  "description": "Comprehensive guided methodology workspace for developing, administering, analyzing, and validating psychometric and research measurement scales following Churchill (1979), Clark & Watson (1995/2019), and Boateng et al. (2018).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
